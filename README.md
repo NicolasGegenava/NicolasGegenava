@@ -3,7 +3,8 @@
 - 👋 I am Nicolas Gegenava
 - 📖 Currenctly mastering Full-Stack Web Development and Machine Learning
 - 💬 Python/Jupyter/Javascript/ReactJS/C++
-- 🔭 Currently working on ML/Full-Stack project 'Shroompy'
+- 🔭 Currently studying for IOAI Competition
+- 🗂️ Kaggle : https://www.kaggle.com/nikolasgegenava
 
 ### My Socials And Skills:
 

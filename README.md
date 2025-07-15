@@ -1,7 +1,7 @@
 ### Hello World 🌎👋
 
 - 👋 I am Nicolas Gegenava
-- 📖 Currenctly mastering Full-Stack Web Development and Machine Learning
+- 📖 Currently researching in machine learning
 - 💬 Python/Jupyter/Javascript/ReactJS/C++
 - 🔭 Currently studying for IOAI Competition
 - 🗂️ Kaggle : https://www.kaggle.com/nikolasgegenava
